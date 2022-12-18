@@ -40,21 +40,18 @@
     <None Include="vertexShader.vert">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="..\Lesson09\depthMap.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Lesson09\depthMap.vert">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="crate_diffusemap.png">
-      <Filter>Resource Files</Filter>
-    </Image>
     <Image Include="marble_diffusemap.png">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="crate_specularmap.png">
-      <Filter>Resource Files</Filter>
-    </Image>
     <Image Include="marble_specularmap.png">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="crate_specularmap2.png">
       <Filter>Resource Files</Filter>
     </Image>
     <Image Include="tilesDTex.png">
@@ -88,6 +85,21 @@
       <Filter>Resource Files</Filter>
     </Image>
     <Image Include="tableSTex.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="woodDTex.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="woodSTex.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="woodDTex2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="woodSTex2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="metalDTex.png">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>

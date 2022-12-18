@@ -32,5 +32,6 @@ protected:
 	void PrintFrameRate();
 	void CheckShaderErrors(GLuint shader, std::string type);
 	GLuint BuildShader(const char* vertexPath, const char* fragmentPath, const char* geometryPath);
+	void UseShader(GLuint program);
 };
 

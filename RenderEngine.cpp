@@ -233,3 +233,9 @@ GLuint RenderEngine::BuildShader(const char* vertexPath, const char* fragmentPat
 	return program;
 
 }
+
+void RenderEngine::UseShader(GLuint program)
+{
+	// Uses the current shader
+	glUseProgram(program);
+}

@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{06320876-AAF8-4078-9EAD-29BCDAD0A5CA}</ProjectGuid>
+    <ProjectGuid>{7F31D14F-D4AB-413B-82FD-3CAFE103E270}</ProjectGuid>
     <RootNamespace>Lesson02</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -137,24 +137,28 @@
     <ClInclude Include="RenderEngine.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\Lesson09\depthMap.frag" />
+    <None Include="..\Lesson09\depthMap.vert" />
     <None Include="fragmentShader.frag" />
     <None Include="vertexShader.vert" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="concreteDTex.png" />
     <Image Include="concreteSTex.png" />
-    <Image Include="crate_diffusemap.png" />
-    <Image Include="crate_specularmap.png" />
-    <Image Include="crate_specularmap2.png" />
     <Image Include="lampTex.png" />
     <Image Include="marble_diffusemap.png" />
     <Image Include="marble_specularmap.png" />
+    <Image Include="metalDTex.png" />
     <Image Include="tableDTex.png" />
     <Image Include="tableSTex.png" />
     <Image Include="tilesD2Tex.png" />
     <Image Include="tilesDTex.png" />
     <Image Include="tilesS2Tex.png" />
     <Image Include="tilesSTex.png" />
+    <Image Include="woodDTex.png" />
+    <Image Include="woodDTex2.png" />
+    <Image Include="woodSTex.png" />
+    <Image Include="woodSTex2.png" />
     <Image Include="ywallDTex.png" />
     <Image Include="ywallSTex.png" />
   </ItemGroup>

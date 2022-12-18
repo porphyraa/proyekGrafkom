@@ -1,1 +1,52 @@
-﻿
+﻿  Demo.cpp
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(64): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(152): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(156): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(157): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(158): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(159): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(165): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(166): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(167): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(172): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(173): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(174): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(175): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(177): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(178): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(180): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(181): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(182): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(183): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(186): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(209): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(210): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(211): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(223): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(604): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1009): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1161): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1325): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1326): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1445): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1446): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1635): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1664): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1667): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1668): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1671): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1672): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1675): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1676): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1679): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1680): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1701): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1702): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1859): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1864): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1926): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\n-file\kuliah\semester 5\grafkom\grafika komputer dan visualisasi\vs\proyek\demo.cpp(1942): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Proyek.vcxproj -> F:\N-File\Kuliah\Semester 5\Grafkom\Grafika Komputer dan Visualisasi\vs\Debug\Proyek.exe
